@@ -18,3 +18,8 @@ NodeManager是每一台机器框架的代理，是执行应用程序的容器，
 3、NodeManager功能比较专一，就是负责Container状态的维护，并向RM保持心跳。
 
 4、ApplicationMaster负责一个Job生命周期内的所有工作，类似老的框架中JobTracker,但注意每一个Job(不是每一种)都有一个ApplicationMaster,他可以运行在ResourceManager以外的机器上.
+
+2019年3月24日 22:00:33
+看了9个小时的电视剧，19版的《倚天屠龙记》+ 《都挺好》
+没有学习大数据，心情比较崩溃😫
+
